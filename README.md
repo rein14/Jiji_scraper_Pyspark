@@ -1,6 +1,8 @@
 # Tonaton.com scraper
 
-This project crawls and scrapes data from tonaton.com to the input_data directory and then data is cleaned up, tranformed and saved to the output_data directory. Then the data transformed data is loaded into postgresql db table
+Tonaton is ecommerce platfor based in Ghana. 
+
+This project basically crawls and scrapes data from tonaton.com as input data which then data is cleaned up, tranformed and saved as our output_data . Then after our output data is transformed and loaded into postgresql db table
 
 ## Requirements
 * Pyspark
